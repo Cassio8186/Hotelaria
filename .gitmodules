@@ -1,0 +1,6 @@
+[submodule "Hotelaria-Backend"]
+	path = Hotelaria-Backend
+	url = git@github.com:Cassio8186/Hotelaria-Backend.git
+[submodule "Hotelaria-Front"]
+	path = Hotelaria-Front
+	url = git@github.com:Cassio8186/Hotelaria-Front.git
